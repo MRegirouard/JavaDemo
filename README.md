@@ -30,3 +30,14 @@ Instructions on how to use GitHub with a java program.
 14. Ensure that "*Import existing Eclipse projects*" is selected, and then click "*Next >*".
 15. Click "*Finish*". The repository should how be in your **Project Explorer** window.
 16. You can now make changes to the code just like a normal Java Project.
+
+### Working on the Project
+Now make your changes to the project. Try to edit only one file, and don't do too much before committing. Once you've made your change and the code runs, save your work, then see the section about committing below.
+
+
+### Committing Your Changes
+1. Right-click on the project in the **Project Explorer** window. Then select **Team > Commit...** (Or just press *Ctrl-#*).
+2. In the **Unstaged Changes** window, select the file you worked on, and click the single green plus at the top of **Unsaved Changes** window.
+3. In the **Commit Message** box, write a very brief message about what you changed. Commit messages should be around 3 to 7 words.
+4. Ensure that the "*Author:*" and "*Committer:*" fields have your name and email address.
+5. Click "*Commit and Push*", then "*Close*".
