@@ -44,6 +44,6 @@ Note: Do this immediately after you are satisfied with your changes.
 
 ### 5. Pulling the Newest Version
 Note: Do this right before you make changes to the project.
-1. If the project is not already in your **Project Explorer** window, follow the steps to download it in [section 2](#downloading-the-project) instead.
+1. If the project is not already in your **Project Explorer** window, follow the steps to download it in [section 2](#2-downloading-the-project) instead.
 2. Right-click on the project, and select **Team > Pull**.
 3. Click "*Close*". Your project should now be up to date with the one on GitHub.
