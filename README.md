@@ -9,8 +9,7 @@ Instructions on how to use GitHub with a java program.
 4. Check the box to install "*Git Integration for Eclipse*".
 5. Click "*Next >*", and wait.
 6. Click "*Next >*", then check the box "*I accept the terms of the license agreement*".
-7. Click "*Finish*".
-8. Click "*Restart Now*" to restart Eclipse.
+7. Click "*Finish*", then click "*Restart Now*" to restart Eclipse.
 
 ### 2. Downloading the Project
 1. Open Eclipse
