@@ -35,8 +35,15 @@ Now make your changes to the project. Try to edit only one file, and don't do to
 
 
 ### 4. Committing Your Changes
+Note: Do this immediately after you are satisfied with your changes.
 1. Right-click on the project in the **Project Explorer** window. Then select **Team > Commit...** (Or just press *Ctrl-#*).
 2. In the **Unstaged Changes** window, select the file you worked on, and click the single green plus at the top of **Unsaved Changes** window.
 3. In the **Commit Message** box, write a very brief message about what you changed. Commit messages should be around 3 to 7 words.
 4. Ensure that the "*Author:*" and "*Committer:*" fields have your name and email address.
 5. Click "*Commit and Push*", then "*Close*".
+
+### 5. Pulling the Newest Version
+Note: Do this right before you make changes to the project.
+1. If the project is not already in your **Project Explorer** window, follow the steps to download it in [section 2](#downloading-the-project) instead.
+2. Right-click on the project, and select **Team > Pull**.
+3. Click "*Close*". Your project should now be up to date with the one on GitHub.
