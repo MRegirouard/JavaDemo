@@ -2,7 +2,7 @@
 
 Instructions on how to use GitHub with a java program.
 
-### Installing EGit - Git integration for Eclipse
+### 1. Installing EGit - Git integration for Eclipse
 1. Open Eclipse
 2. Click on **Help > Install New Software...** in the top menu. A window should pop up.
 3. Paste the following URL into the box that says "*type or select a site*": https://download.eclipse.org/egit/updates/
@@ -12,7 +12,7 @@ Instructions on how to use GitHub with a java program.
 7. Click "*Finish*".
 8. Click "*Restart Now*" to restart Eclipse.
 
-### Downloading the Project
+### 2. Downloading the Project
 1. Open Eclipse
 2. Click on **File > Import...** in the top menu. A window should pop up.
 3. Drop down the folder "*Git*" and select "*Projects from Git*".
@@ -31,11 +31,11 @@ Instructions on how to use GitHub with a java program.
 15. Click "*Finish*". The repository should how be in your **Project Explorer** window.
 16. You can now make changes to the code just like a normal Java Project.
 
-### Working on the Project
+### 3. Working on the Project
 Now make your changes to the project. Try to edit only one file, and don't do too much before committing. Once you've made your change and the code runs, save your work, then see the section about committing below.
 
 
-### Committing Your Changes
+### 4. Committing Your Changes
 1. Right-click on the project in the **Project Explorer** window. Then select **Team > Commit...** (Or just press *Ctrl-#*).
 2. In the **Unstaged Changes** window, select the file you worked on, and click the single green plus at the top of **Unsaved Changes** window.
 3. In the **Commit Message** box, write a very brief message about what you changed. Commit messages should be around 3 to 7 words.
