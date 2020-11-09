@@ -6,10 +6,11 @@ Instructions on how to use GitHub with a java program.
 1. Open Eclipse
 2. Click on **Help > Install New Software...** in the top menu. A window should pop up.
 3. Paste the following URL into the box that says "*type or select a site*": https://download.eclipse.org/egit/updates/
-4. Check the box to install "*Git Integration for Eclipse*".
-5. Click "*Next >*", and wait.
-6. Click "*Next >*", then check the box "*I accept the terms of the license agreement*".
-7. Click "*Finish*", then click "*Restart Now*" to restart Eclipse.
+4. Click "*Add...*". In the "*Name*" box, type "EGit". Click "*Add*".
+5. Check the box to install "*Git Integration for Eclipse*".
+6. Click "*Next >*", and wait.
+7. Click "*Next >*", then "*Next >*" again. Check the box "*I accept the terms of the license agreement*".
+8. Click "*Finish*", then click "*Restart Now*" in a moment to restart Eclipse.
 
 ### 2. Downloading the Project
 1. Open Eclipse
